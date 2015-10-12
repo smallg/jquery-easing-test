@@ -1,0 +1,29 @@
+{
+  "name": "jquery-easing-test",
+  "version": "0.0.1",
+  "homepage": "https://github.com/smallg/jquery-easing-test",
+  "authors": [
+    "smallg <gwpxjb@163.com>"
+  ],
+  "description": "test jquery easing effect",
+  "main": "index.html",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "jquery",
+    "easing"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "jquery-ui": "jqueryui#~1.11.4"
+  }
+}
